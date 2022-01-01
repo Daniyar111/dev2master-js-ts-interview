@@ -8,7 +8,7 @@ Before you will join our community there is a test we need you to do. Please rea
 - Solve tasks in the same folders
 - Share your repository link to your PM when you'll finish.
 
-All assignments are optional, but your points and skills will decide whether you go further or not. ASAP solved tasks will have an advantage over other students :)
+All assignments are optional, but your points and skills will decide whether you go further or not. AMAP (as many as possible) solved tasks will have an advantage over other students :)
 
 If you have any questions, feel free to email the PM
 
